@@ -1,0 +1,6 @@
+Sources/GameJam/Library
+Sources/GameJam/Temp
+Sources/GameJam/Assets/Temp
+Sources/GameJam/obj/Debug
+*.csproj
+Sources/GameJam/.vs/
